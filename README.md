@@ -1,4 +1,5 @@
-Output file location: ProgAssign1/output/output.csv log file location: ProgAssign1/logs/app.log
+Output file location: ProgAssign1/output/output.csv 
+log file location: ProgAssign1/logs/app.log
 
 result logs:
 
